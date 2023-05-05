@@ -61,7 +61,7 @@ public class test extends JFrame {
 		setFont(new Font("Fredoka Light", Font.PLAIN, 12));
 		setTitle("ENSA");
 		setAutoRequestFocus(true);
-		setIconImage(Toolkit.getDefaultToolkit().getImage(test.class.getResource("/icons/ICON.png")));
+		setIconImage(Toolkit.getDefaultToolkit().getImage(test.class.getResource("/icons/ENSA_AMS.png")));
 		setResizable(false);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(10, 10, 1128, 739);
